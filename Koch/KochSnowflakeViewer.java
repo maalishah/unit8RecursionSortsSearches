@@ -72,7 +72,7 @@ public class KochSnowflakeViewer implements ActionListener
         frame.add(panel);
         frame.setVisible(true);
     }
-
+    
     //-----------------------------------------------------------------
     //  Determines which button was pushed, and sets the new order
     //  if it is in range.
